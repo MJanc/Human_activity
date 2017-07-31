@@ -1,0 +1,10 @@
+c:\users\m\documents\visual studio 2013\Projects\odbiorUART\odbiorUART\bin\Debug\odbiorUART.exe.config
+C:\Users\M\documents\visual studio 2013\Projects\odbiorUART\odbiorUART\obj\Debug\odbiorUART.csprojResolveAssemblyReference.cache
+C:\Users\M\documents\visual studio 2013\Projects\odbiorUART\odbiorUART\obj\Debug\odbiorUART.Form1.resources
+C:\Users\M\documents\visual studio 2013\Projects\odbiorUART\odbiorUART\obj\Debug\odbiorUART.Properties.Resources.resources
+C:\Users\M\documents\visual studio 2013\Projects\odbiorUART\odbiorUART\obj\Debug\odbiorUART.csproj.GenerateResource.Cache
+C:\Users\M\documents\visual studio 2013\Projects\odbiorUART\odbiorUART\bin\Debug\odbiorUART.exe
+C:\Users\M\documents\visual studio 2013\Projects\odbiorUART\odbiorUART\bin\Debug\odbiorUART.pdb
+C:\Users\M\documents\visual studio 2013\Projects\odbiorUART\odbiorUART\obj\Debug\odbiorUART.exe
+C:\Users\M\documents\visual studio 2013\Projects\odbiorUART\odbiorUART\obj\Debug\odbiorUART.pdb
+C:\Users\M\Documents\Visual Studio 2013\Projects\odbiorUART\odbiorUART\obj\Debug\odbiorUART.FormChart.resources
